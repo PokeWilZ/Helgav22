@@ -46,9 +46,9 @@ const lolkey = '0b0ffba94f2b803b88721e4f'
 
 hargalimit = "100"
 limitawal = "20"
-namabot = "AnisaChan🎋(Helga)"
-namaowner = "Helga Ilham`"
-nomerowner = '6282138919347'
+namabot = "WiLLY BOT"
+namaowner = "Willy Supranata`"
+nomerowner = '6282286896563'
 gamewaktu = "30"
 leave = 'sayonara'
 f = ' ⑅⃝🐋'
@@ -325,7 +325,7 @@ console.log(color('⸨ ','white'),color('∆','red'),color('⸩','white'),color(
         success('2', '■■■■■■■■■■ 100%')
   console.log(color(`HAI ${namaowner + ' ' + ucapWaktu}`,'white'))
  console.log(color(`${namabot} TELAH SUKSES TERSAMBUNG!`,'white'))
- console.log(color(`MUZZA-BOTZ RECODE BY Hanbu FF`,'blue'))
+ console.log(color(`MUZZA-BOTZ RECODE BY Willy Supranata`,'blue'))
  })         
       
   await client.connect({timeoutMs: 30*1000})
@@ -361,7 +361,7 @@ teks = `*┏━━━•🌹WELCOME🌹•━━━*
 *┃✙◗ Jenis kelamin:*
 *┃✙◗ Umur:*
 *┗━━━━━━━━━━━━━━ •*
-• *LU OUT DI SANTET HELGA* •`
+• *LU OUT DI Santet Willy Supranata* •`
 let buff = await getBuffer(ppimg)
 client.sendMessage(mdata.id, buff, MessageType.image, {thumbnail: gambar2, caption: teks, contextInfo: {"mentionedJid": [num]}})
 } else if (anu.action == 'remove') {
@@ -1180,10 +1180,10 @@ teks = `┏━━━━━━━ •
 *┃┃* Bot Ini Di Susun Oleh
 *┃┃* Orang Nya Di Bawah!
 *┃┣━━━━━━━━*
-*┃┃✙◗ _Helga Ganteng_*
+*┃┃✙◗ _Willy Supranata_*
 *┃┗━━━━━━━━*
 *┃✙◗ thanx to Allah*
-*┃✙◗ thanx to Yang Sayang Helga:v*
+*┃✙◗ thanx to Yang Sayang Willy:v*
 *┃✙◗ thanx to emak&bapak*
 *┃✙◗ thanx to saya :V*
 *┃✙◗ thanx to Hape :V*
